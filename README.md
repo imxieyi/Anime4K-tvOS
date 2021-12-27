@@ -1,5 +1,7 @@
 #  Anime4K for tvOS
 
+**DEPRECATED: Use [Anime4KMetal](https://github.com/imxieyi/Anime4KMetal) for iOS, tvOS, macOS and the latest shaders.**
+
 ## Introduction
 This is a port of GLSL [Anime4K](https://github.com/bloc97/Anime4K) to tvOS (Metal).
 
